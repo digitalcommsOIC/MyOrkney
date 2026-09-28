@@ -368,7 +368,7 @@ clear: both;
 .MyOrkney {
 width: 30vh;
   height:5vh;
-        background: url("https://www.orkney.gov.uk/media/eknd2ipi/myorkney.webp") no-repeat;
+        background: url("https://myorkney.pages.dev/images/myorkney.webp") no-repeat;
   background-size: contain;
   transition-duration: 0.5s;
 }
@@ -376,7 +376,7 @@ width: 30vh;
 .MyOrkney:hover {
 /*width: 25vh;
   height:5vh;*/
-        background: url("https://www.orkney.gov.uk/media/n30a1log/myorkney-hover.webp") no-repeat;
+        background: url("https://myorkney.pages.dev/images/myorkney-hover.webp") no-repeat;
   background-size: contain;
   transition-duration: 0.5s;
 }
@@ -406,14 +406,14 @@ display: flex;
 .dash{
     width: 30vh;
       height:5vh;
-            background: url("https://www.orkney.gov.uk/media/ianpe1dl/asset-2-2x.webp") no-repeat;
+            background: url("https://myorkney.pages.dev/images/asset-2-2x.webp") no-repeat;
       background-size: contain;
         }
 
 .test{
     width: 30vh;
       height:5vh;
-            background: url("https://www.orkney.gov.uk/media/ktrcrfzm/test.webp") no-repeat;
+            background: url("https://myorkney.pages.dev/images/test.webp") no-repeat;
       background-size: contain;
         }
 
